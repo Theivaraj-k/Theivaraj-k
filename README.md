@@ -12,8 +12,11 @@ src="https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU">
 
 - ## I code in
 - <img hight="50px" width="50" src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=d-ecRvTZMFpE&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
-  
-  
+
+- ## IDE and Tools I use
+- <img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>
+
+
 
 <!---
 Theivaraj-k/Theivaraj-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
