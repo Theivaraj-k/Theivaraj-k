@@ -1,8 +1,7 @@
 Hi there 👋 It's me Theivaraj 
 
 AI&ML Student 
-<img align="right" width="300" hight="250" 
-src="https://unsplash.com/photos/black-and-silver-laptop-computer-beside-black-computer-mouse-e_MdMMKrgdY">
+<img src="https://unsplash.com/photos/black-and-silver-laptop-computer-beside-black-computer-mouse-e_MdMMKrgdY" alt="Alt Text" width="300"/>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
