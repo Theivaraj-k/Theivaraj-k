@@ -1,7 +1,7 @@
 ## ✨️Hi there 👋 It's me Theivaraj 
 
  ## AI&ML Student 
- -<img align="right" width="350px" hight="150px" src="https://images.pexels.com/photos/7974/pexels-photo.jpg"/>
+ -<img align="right" width="350px" hight="150px" src="https://cdn.pixabay.com/video/2021/01/03/61037-497754241_large.mp4"/>
 
  
 - 👀 I’m interested in ...
