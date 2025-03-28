@@ -18,6 +18,9 @@ src="https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU">
 
 
 
+- ## Workspace Spec
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/Theivaraj_123?theme=catppuccinMocha&font=Marcellus&ext=contest)
+
 <!---
 Theivaraj-k/Theivaraj-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
