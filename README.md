@@ -20,7 +20,7 @@ src="https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU">
 
 - ## Workspace Spec
 - ![LeetCode Stats](https://leetcard.jacoblin.cool/Theivaraj_123?theme=catppuccinMocha&font=Marcellus&ext=contest)
-
+- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Theivaraj-k&bg_color=332c0e&color=f3ff73&line=3bdff5&point=29ffbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 Theivaraj-k/Theivaraj-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
