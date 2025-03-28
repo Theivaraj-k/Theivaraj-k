@@ -1,7 +1,7 @@
 Hi there 👋 It's me Theivaraj 
 
 AI&ML Student 
-<imag align="right" width="390px" hight="250px" 
+<img align="right" width="350" hight="250" 
 src="https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU">
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
