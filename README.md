@@ -11,8 +11,10 @@ src="https://unsplash.com/photos/macbook-pro-turned-on-Bd7gNnWJBkU">
 - ⚡ Fun fact: ...
 
 - ## I code in
-- <img hight="50px" width="50" src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000">
-- <img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=d-ecRvTZMFpE&format=png&color=000000">
+- <img hight="50px" width="50" src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000"/>
+- <img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=d-ecRvTZMFpE&format=png&color=000000"/>
+- <img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
+- <img hight="50px" width="50px" src=" https://img.icons8.com/?size=100&id=121601&format=png&color=000000"/>
   
 
 <!---
