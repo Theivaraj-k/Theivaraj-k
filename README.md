@@ -7,15 +7,15 @@
 - 👀 I’m interested AI Development...
 - 🌱 I’m currently learning. Django ...
 - 💞️ I’m looking to collaborate on:
-- Exciting web development projects.
-- Open-source initiatives that make an impact.
-- Innovative ideas in Django, other modern web technologies.
-- Anything that involves learning and growing together!
+    - Exciting web development projects.
+    - Open-source initiatives that make an impact.
+    - Innovative ideas in Django, other modern web technologies.
+    - Anything that involves learning and growing together!
 - 📫 How to reach me:
-- Email: [theivaraj777@gami.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
-- Portfolio: [Your Portfolio Link](https://yourportfolio.com)
+    - Email: [theivaraj777@gami.com](mailto:your.email@example.com)
+    - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+    - Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+    - Portfolio: [Your Portfolio Link](https://yourportfolio.com)
 
 😄 Pronouns:
 - He/Him
