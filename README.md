@@ -13,8 +13,7 @@
     - Anything that involves learning and growing together!
 - 📫 How to reach me:
     - Email: [theivaraj777@gami.com](mailto:your.email@example.com)
-<img alt="Static Badge" src="https://img.shields.io/badge/%20Linked%20-in%20-path%20">
-    - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+    - https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
     - Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
     - Portfolio: [Your Portfolio Link](https://yourportfolio.com)
 
