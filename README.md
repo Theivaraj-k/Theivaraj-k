@@ -30,7 +30,7 @@
 - <img hight="50px" width="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=qc3TyHJPxEoH&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
 
 - ## IDE and Tools I use
-- <img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=106036&format=png&color=000000"/>
+- <img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000"/>
 
 
 
