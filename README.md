@@ -17,15 +17,19 @@
     - Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
     - Portfolio: [Your Portfolio Link](https://yourportfolio.com)
 
--😄 Pronouns:
+- 😄 Pronouns:
     - He/Him | She/Her | They/Them (choose what works for you!).
 
 
--⚡ Fun fact:
+- ⚡ Fun fact:
     - I can code faster than I can type (well, almost)!.
     - I once debugged an entire project using just caffeine and a playlist of 80s rock.
     - My favorite tool is [VS Code](https://code.visualstudio.com/)—and yes, I think its themes are underrated!.
-
+ 
+  
+## 🚀 Projects  
+- **[Project Name](link):** A cool feature-rich web app that does XYZ.  
+- **[Another Project](link):** Built using ABC, this app helps people do DEF.
 
 - ## I code in
 - <img hight="50px" width="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=d-ecRvTZMFpE&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
