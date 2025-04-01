@@ -11,9 +11,20 @@
 - Open-source initiatives that make an impact.
 - Innovative ideas in Django, other modern web technologies.
 - Anything that involves learning and growing together!
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+- Portfolio: [Your Portfolio Link](https://yourportfolio.com)
+
+😄 Pronouns:
+- He/Him
+
+⚡ Fun fact:
+- I can code faster than I can type (well, almost)!
+- I once debugged an entire project using just caffeine and a playlist of 80s rock.
+- My favorite tool is [VS Code](https://code.visualstudio.com/)—and yes, I think its themes are underrated!
+
 
 - ## I code in
 - <img hight="50px" width="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=d-ecRvTZMFpE&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
