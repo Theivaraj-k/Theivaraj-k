@@ -12,10 +12,6 @@
     - Innovative ideas in Django, other modern web technologies.
     - Anything that involves learning and growing together!
 - 📫 How to reach me:
-    - Email: [theivaraj777@gami.com](mailto:your.email@example.com)
-    - < image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    - Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
-    - Portfolio: [Your Portfolio Link](https://yourportfolio.com)
 
 - 😄 Pronouns:
     - He/Him | She/Her | They/Them (choose what works for you!).
