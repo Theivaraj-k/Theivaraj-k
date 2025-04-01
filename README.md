@@ -12,7 +12,8 @@
     - Innovative ideas in Django, other modern web technologies.
     - Anything that involves learning and growing together!
 - 📫 How to reach me:
-    - Email: [theivaraj777@gami.com](mailto:your.email@example.com)<img alt="Static Badge" src="https:/
+    - Email: [theivaraj777@gami.com](mailto:your.email@example.com)
+<img alt="Static Badge" src="https://img.shields.io/badge/%20Linked%20-in%20-path%20">
     - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
     - Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
     - Portfolio: [Your Portfolio Link](https://yourportfolio.com)
