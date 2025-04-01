@@ -13,8 +13,7 @@
     - Anything that involves learning and growing together!
 - 📫 How to reach me:
 
-- 😄 Pronouns:
-    - He/Him | She/Her | They/Them (choose what works for you!).
+- 😄 Pronouns: Const
 
 
 - ⚡ Fun fact:
