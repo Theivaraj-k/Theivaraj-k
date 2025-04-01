@@ -17,12 +17,12 @@
     - Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
     - Portfolio: [Your Portfolio Link](https://yourportfolio.com)
 -😄 Pronouns:
-    - He/Him | She/Her | They/Them (choose what works for you!)
+    - He/Him | She/Her | They/Them (choose what works for you!).
 
 -⚡ Fun fact:
-    - I can code faster than I can type (well, almost)!
+    - I can code faster than I can type (well, almost)!.
     - I once debugged an entire project using just caffeine and a playlist of 80s rock.
-    - My favorite tool is [VS Code](https://code.visualstudio.com/)—and yes, I think its themes are underrated!
+    - My favorite tool is [VS Code](https://code.visualstudio.com/)—and yes, I think its themes are underrated!.
 
 
 - ## I code in
