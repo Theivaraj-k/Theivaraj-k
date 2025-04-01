@@ -16,8 +16,10 @@
     - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
     - Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
     - Portfolio: [Your Portfolio Link](https://yourportfolio.com)
+
 -😄 Pronouns:
     - He/Him | She/Her | They/Them (choose what works for you!).
+
 
 -⚡ Fun fact:
     - I can code faster than I can type (well, almost)!.
