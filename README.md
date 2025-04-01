@@ -1,6 +1,6 @@
-## ✨️Hi there 👋 It's me Theivaraj 
+  ## ✨️Hi there 👋 It's me Theivaraj 
 
- ## AI&ML Student 
+  ## AI&ML Student 
  -<img align="right" width="350px" hight="100px" src="https://cdn.pixabay.com/photo/2024/04/01/13/21/ai-generated-8668923_1280.jpg"/>
 
  
@@ -27,7 +27,7 @@
     - My favorite tool is [VS Code](https://code.visualstudio.com/)—and yes, I think its themes are underrated!.
  
   
-## 🚀 Projects  
+  ## 🚀 Projects  
 - **[Project Name](link):** A bug efficient e_commerce website.  
 
 
