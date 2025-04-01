@@ -28,8 +28,8 @@
  
   
 ## 🚀 Projects  
-- **[Project Name](link):** A cool feature-rich web app that does XYZ.  
-- **[Another Project](link):** Built using ABC, this app helps people do DEF.
+- **[Project Name](link):** A bug efficient e_commerce website.  
+
 
 - ## I code in
 - <img hight="50px" width="50" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=d-ecRvTZMFpE&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/><img hight="50px" width="50px" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
