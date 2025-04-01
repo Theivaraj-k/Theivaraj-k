@@ -20,7 +20,7 @@
 😄 Pronouns:
     - He/Him
 
-⚡ Fun fact:!
+⚡ Fun fact:
     - My favorite tool is [VS Code](https://code.visualstudio.com/)—and yes, I think its themes are underrated!
 
 
