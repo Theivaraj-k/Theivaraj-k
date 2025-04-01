@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on:
 - Exciting web development projects.
 - Open-source initiatives that make an impact.
-- Innovative ideas in Django, React, or other modern web technologies.
+- Innovative ideas in Django, other modern web technologies.
 - Anything that involves learning and growing together!
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
